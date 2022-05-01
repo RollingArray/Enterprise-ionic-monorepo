@@ -1,0 +1,29 @@
+{
+  "projects": {
+    "sidemenu": {
+      "name": "sidemenu",
+      "integrations": {
+        "capacitor": {}
+      },
+      "type": "angular",
+      "root": "apps/sidemenu"
+    },
+    "list": {
+      "name": "list",
+      "integrations": {},
+      "type": "angular",
+      "root": "apps/list"
+    },
+    "tabs": {
+      "name": "tabs",
+      "integrations": {
+        "cordova": {}
+      },
+      "type": "angular",
+      "root": "apps/tabs"
+    }
+  },
+  "integrations": {
+    "capacitor": {}
+  }
+}

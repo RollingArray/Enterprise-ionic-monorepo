@@ -1,0 +1,30 @@
+{
+  "name": "sidemenu",
+  "version": "0.0.1",
+  "homepage": "https://ionicframework.com/",
+  "private": true,
+  "description": "Side Menu",
+  "author": "Ranjoy Sen",
+  "dependencies": {
+    "cordova-ios": "6.2.0"
+  },
+  "devDependencies": {
+    "cordova-plugin-device": "2.0.2",
+    "cordova-plugin-ionic-keyboard": "^2.0.5",
+    "cordova-plugin-ionic-webview": "^5.0.0",
+    "cordova-plugin-splashscreen": "5.0.2",
+    "cordova-plugin-statusbar": "^2.4.2"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-device": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-ionic-webview": {},
+      "cordova-plugin-ionic-keyboard": {}
+    },
+    "platforms": [
+      "ios"
+    ]
+  }
+}
