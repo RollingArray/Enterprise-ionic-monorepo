@@ -5,7 +5,7 @@ on:
     branches: 
       - main
     paths:
-      - 'apps/Sidemenu/**'
+      - 'apps/sidemenu/**'
       - 'libs/**'
       
 jobs:
