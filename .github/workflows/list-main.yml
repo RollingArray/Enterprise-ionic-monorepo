@@ -11,7 +11,7 @@ on:
 jobs:
   web-deploy:
 
-    name: Deploy KnowledgeN Client app
+    name: Deploy List app
     runs-on: ubuntu-latest
     # Start stage
 

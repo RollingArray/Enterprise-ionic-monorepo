@@ -15,6 +15,8 @@
     "start-list": "ionic serve --o --project list",
     "lint-list": "ng lint --project list",
     "test-list": "ng test --project list",
+    "build-list": "ng build --configuration production --project list",
+
     "start-tabs": "ionic serve --o --project tabs",
     "lint-tabs": "ng lint --project tabs",
     "test-tabs": "ng test --project tabs",
