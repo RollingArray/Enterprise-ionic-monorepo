@@ -20,7 +20,7 @@
     "start-tabs": "ionic serve --o --project tabs",
     "lint-tabs": "ng lint --project tabs",
     "test-tabs": "ng test --project tabs",
-    "start-tabs-ios": "ionic build --project tabs && sudo ionic cordova prepare ios --project tabs && sudo ionic cordova build ios --project tabs"
+    "build-tabs-ios": "ionic build --project tabs && sudo ionic cordova prepare ios --project tabs && sudo ionic cordova build ios --project tabs"
   },
   "private": true,
   "dependencies": {
