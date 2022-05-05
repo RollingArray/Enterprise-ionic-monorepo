@@ -175,7 +175,7 @@ libs/core/assets/i18n/en.json
 # Create build scripts in root package.json for convenience
 ## run app in local environment
 ```
-npm Run start-app-name
+npm run start-app-name
 ```
 
 ## Lint app in local environment
